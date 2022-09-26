@@ -1,4 +1,6 @@
 teste1
+<<<<<<< HEAD
 teste2
 teste3
+teste4
 
