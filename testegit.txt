@@ -5,3 +5,4 @@ teste3
 teste4
 inseri uma linha antes de criar a branchvmm2
 linha inserida dentro da branchvmm2
+linha inseria na branchvmm2 pelo usuario professoavanessamoncao vmmfjv@gmail.com
